@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Azure pour developpeurs`. Le cours enti
 
 ![Azure pour developpeurs][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
-Introduction au Cloud Computing avec tour d'horizon des services principaux d'hébergement, de base de données, de surveillance et de sécurité des applications. La formation s'adresse aux développeurs et architectes souhaitant se faire une première expérience d'Azure avec des concepts simples mais primordiaux pour appréhender le Cloud Azure.
+Vous avez toujours souhaité vous mettre au développement cloud Azure mais vous ne savez pas par où commencer ? Alors, suivez ce cours qui vous présentera la plateforme aux multiples facettes et l'impressionnante robustesse des services à destination des développeurs. Hébergement d'applications, stockage de données, conteneurisation ou encore sécurité… Azure n'aura plus de secret pour vous ! Christophe Gigax, architecte cloud et Microsoft MVP, vous propose de plonger dans le monde passionnant du développement cloud. Vous découvrirez le cloud computing et les principaux services d’hébergement, de base de données, de surveillance et de sécurité des applications. Ce cours s'adresse aux développeurs et aux architectes souhaitant faire une première expérience d'Azure avec des concepts simples mais primordiaux pour appréhender le cloud Azure.
 
 ## Instructions
 
