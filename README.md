@@ -1,8 +1,8 @@
-# Nom final de la formation
+# Azure pour les développeurs/développeuses
 
-Ce dossier Repository est lié au cours `Azure pour developpeurs`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Azure pour les développeurs/développeuses`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Azure pour developpeurs][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Azure pour developpeurs][lil-thumbnail-url]
 
 Vous avez toujours souhaité vous mettre au développement cloud Azure mais vous ne savez pas par où commencer ? Alors, suivez ce cours qui vous présentera la plateforme aux multiples facettes et l'impressionnante robustesse des services à destination des développeurs. Hébergement d'applications, stockage de données, conteneurisation ou encore sécurité… Azure n'aura plus de secret pour vous ! Christophe Gigax, architecte cloud et Microsoft MVP, vous propose de plonger dans le monde passionnant du développement cloud. Vous découvrirez le cloud computing et les principaux services d’hébergement, de base de données, de surveillance et de sécurité des applications. Ce cours s'adresse aux développeurs et aux architectes souhaitant faire une première expérience d'Azure avec des concepts simples mais primordiaux pour appréhender le cloud Azure.
 
@@ -30,8 +30,8 @@ La branche `main` correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/instructors/christophe-gigax
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/azure-pour-les-developpeurs-developpeuses
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQE2MXidVISOBg/learning-public-crop_675_1200/0/1669817961602?e=2147483647&v=beta&t=qdJ_RcH_K-CzkG0z4Rbw6MmhWu8iVaQbJb3mBzZoqH0
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/christophe-gigax
 
 [1]: # (End of FR-Instruction ###############################################################################################)
